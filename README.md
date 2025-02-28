@@ -6,27 +6,27 @@ Este repositório tem como objetivo explorar e analisar o conjunto de dados Braz
 
 Através dessa análise, busco identificar padrões climáticos, visualizar tendências e entender variáveis como temperatura, umidade, pressão atmosférica e precipitação. Os principais objetivos incluem:
 
-Limpeza e tratamento dos dados meteorológicos;
+- Limpeza e tratamento dos dados meteorológicos;
 
-Análise exploratória para entender a distribuição das variáveis;
+- Análise exploratória para entender a distribuição das variáveis;
 
-Visualização de tendências climáticas ao longo dos anos;
+- Visualização de tendências climáticas ao longo dos anos;
 
-Avaliação de padrões sazonais e anomalias climáticas;
+- Avaliação de padrões sazonais e anomalias climáticas;
 
-Exploração de possíveis impactos das variações climáticas em diferentes regiões do Brasil.
+- Exploração de possíveis impactos das variações climáticas em diferentes regiões do Brasil.
 
 Este projeto é ideal para quem deseja praticar análise de dados, manipulação de bases meteorológicas e criação de visualizações para interpretar informações climáticas.
 
 Estrutura do Repositório
 
-data/ - Contém os arquivos de dados brutos e processados.
+-- data/ - Contém os arquivos de dados brutos e processados.
 
-notebooks/ - Jupyter Notebooks com as análises realizadas.
+-- notebooks/ - Jupyter Notebooks com as análises realizadas.
 
-src/ - Scripts de processamento e análise de dados.
+-- src/ - Scripts de processamento e análise de dados.
 
-README.md - Documento explicativo do projeto.
+-- README.md - Documento explicativo do projeto.
 
 Como Contribuir
 
